@@ -132,15 +132,9 @@ color: #404bbf;
     background-color:#4D5AE5 ;
 }
 .hero-btn:hover {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.04em;
-    color: #2e2f42;
     background-color: #404BBF;  
 }
 .hero-btn:focus {
-    color: #2e2f42;
     background-color:#404BBF ;
 }
 .feature {
